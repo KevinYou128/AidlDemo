@@ -1,0 +1,3 @@
+include ':servicedemo'
+include ':clientdemo', ':mylibrary'
+rootProject.name='AidlDemo'
